@@ -1,0 +1,10 @@
+.icones a i:hover {
+    color: rgb(7, 18, 48);
+    text-shadow: 0rem 0rem 0.125rem rgba(0, 0, 0, 0.575);
+}
+
+img:hover{
+    opacity: .8;
+    transition: .5s;
+}
+
