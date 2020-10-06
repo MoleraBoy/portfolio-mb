@@ -1,2 +1,19 @@
-# portfolio-mb
-Portfólio de Matheus Brandão
+# Portfólio-MB
+
+Site experimento com Boostrap
+
+## Tarefas  
+
+O controle das tarefas desse projeto será realizado no Gitub
+
+## Icones
+
+:package: nova funcionalidade 
+:up: atualização
+:beetle: correção de bug
+:checkered_flag: release
+:information_desk_person: anotações
+
+## Créditos 
+
+Aqui vão os créditos
