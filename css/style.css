@@ -8,14 +8,14 @@ img:hover {
 }
 
 @media (min-width: 576px) {
-    .container img {
+    .container .eu {
         width: 450px;
         border-radius: 50% 70%;
     }
 }
 
 @media (max-width: 576px) {
-    .container img {
+    .container .eu {
         margin-top: 50px;
         width: 320px;
         border-radius: 50% 70%;
