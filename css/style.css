@@ -2,8 +2,22 @@
     text-shadow: 0rem 0rem 0.125rem rgba(0, 90, 60, 0.767);
 }
 
-img:hover{
+img:hover {
     opacity: .8;
     transition: .5s;
 }
 
+@media (min-width: 576px) {
+    .container img {
+        width: 450px;
+        border-radius: 50% 70%;
+    }
+}
+
+@media (max-width: 576px) {
+    .container img {
+        margin-top: 50px;
+        width: 320px;
+        border-radius: 50% 70%;
+    }
+}
