@@ -65,3 +65,117 @@ img:hover {
     background-attachment: fixed;
     font-family: helvetica, Arial, sans-serif;
 }
+
+.bg-card {
+    background: rgba(30, 29, 92, 0.5);
+}
+
+.texto-card {
+    color: whitesmoke;
+}
+
+.texto-card-02 {
+    color: rgb(138, 165, 168);
+}
+
+.footer-20192 {
+    position: relative;
+    color: #fff;
+    padding: 7rem 0;
+    background-color: #141d2a
+}
+
+.footer-20192 .container {
+    position: relative
+}
+
+.footer-20192 h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    line-height: 1.5
+}
+
+.footer-20192 .links li {
+    margin-bottom: 10px;
+    line-height: 1.5;
+    display: block
+}
+
+.footer-20192 .links li a {
+    color: #666873;
+    text-decoration: none;
+}
+
+.footer-20192 .links li a:hover {
+    color: #fff
+}
+
+.footer-20192 .social li {
+    display: inline-block;
+    position: relative
+}
+
+.footer-20192 .social li a {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    background-color: #383949;
+    color: #fff
+}
+
+.footer-20192 .social li a:hover {
+    width: 45px;
+    height: 45px;
+    margin: 2px;
+    background: rgb(106, 106, 116);
+}
+
+.footer-20192 .social li a>span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+}
+
+.footer-20192 .footer-logo {
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: .1rem
+}
+
+.footer-20192 .copyright {
+    color: #666873
+}
+
+.footer-20192 .cta {
+    -webkit-box-shadow: -20px -20px 0 0 rgba(52, 58, 64, .2);
+    box-shadow: -20px -20px 0 0 rgba(52, 58, 64, .2);
+    padding: 20px;
+    background-color: #383949;
+    top: -150px;
+    position: relative
+}
+
+.footer-20192 .cta h2,
+.footer-20192 .cta h3 {
+    line-height: 1.5
+}
+
+.footer-20192 .cta h3 {
+    font-size: 20px
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
