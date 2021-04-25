@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .icones a i:hover {
     text-shadow: 0rem 0rem 0.125rem rgba(0, 90, 60, 0.767);
 }
