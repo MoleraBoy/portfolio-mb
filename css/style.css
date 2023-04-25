@@ -38,28 +38,28 @@ img:hover {
 }
 
 .azul {
-    background: #0575E6;
+    background: #11998e;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #021B79, #0575E6);
+    background: -webkit-linear-gradient(to right, #38ef7d, #11998e);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #021B79, #0575E6);
+    background: linear-gradient(to right, #38ef7d, #11998e);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .texto-blue {
-    color: whitesmoke;
+    color: rgb(0, 192, 74);
 }
 
 .texto-link {
-    color: teal;
+    color: rgb(39, 202, 107);
 }
 
 .azul-claro {
-    background: #36d1dc17;
+    background: #135e3279;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #5b87e51c, #36d1dc1c);
+    background: -webkit-linear-gradient(to right, #71b28083, #134e5e77);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #5b87e528, #36d1dc1a);
+    background: linear-gradient(to right, #71b28085, #134e5e77);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
